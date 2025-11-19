@@ -27,7 +27,6 @@ and revisit them and follow demonstration videos related to educational web tool
 | **Lesson 1: Introduction to the Course** | **Video 1: Aim and Objectives of the Course** | Week 1.1: Practice Quiz – Aim and Objectives of the Course | 
 | | Video 2: Reading Materials for the Course | Week 1.1: Practice Quiz – Reading Materials for the Course | 
 | | Video 3: Assessment Components in the Course | Week 1.1: Practice Quiz – Assessment Components in the Course | 
-| | **Reading:** Basics of Computer Hardware |  |  |
 | **Lesson 2: Purpose, Types, and Features of Academic Writing** | **Video 1: Definition of Academic Writing** | Week 1.2: Practice Quiz – Definition of Academic Writing | 
 | | Video 2: Purposes of Academic Writing | Week 1.2: Practice Quiz – Purposes of Academic Writing | 
 | | Video 3: Features of Academic Writing | Week 1.2: Practice Quiz – Features of Academic Writing |
