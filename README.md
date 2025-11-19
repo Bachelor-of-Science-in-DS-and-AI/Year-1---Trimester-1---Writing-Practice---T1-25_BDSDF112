@@ -34,7 +34,7 @@ and revisit them and follow demonstration videos related to educational web tool
 | **Lesson 3: Originality, Integrity, and Plagiarism in Academic Writing** | **Video 1: Originality in Academic Writing** | Week 1.3: Practice Quiz – Originality in Academic Writing |
 | | Video 2: Plagiarism in Academic Writing | Week 1.3: Practice Quiz – Plagiarism in Academic Writing |
 | | Video 3: Respecting Intellectual Property Rights | Week 1.3: Practice Quiz – Respecting Intellectual Property Rights |
-| **Lesson 4: Leveraging AI and Module Summary** | **Leveraging AI and Module Summary** | |
+| **Lesson 4: Leveraging AI and Module Summary** | **Video 1:Leveraging AI and Module Summary** | |
 |  W1: Open-ended peer discussion | | | | 
 | **Live Session** | **Sep 19, 2025 06:30 PM India** | |
 
