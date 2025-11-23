@@ -187,7 +187,7 @@ and revisit them and follow demonstration videos related to educational web tool
 <br><br>
 
 
-#### ✅ WEEK 5:Elements of writing
+#### ✅ WEEK 5: Elements of writing
 
 #### Module Overview
 
@@ -230,7 +230,7 @@ and revisit them and follow demonstration videos related to educational web tool
 
 
 
-#### ✅ WEEK 6 : Writing emails
+#### ✅ WEEK 6: Writing emails
 
 #### Module Overview
 
@@ -303,7 +303,7 @@ and revisit them and follow demonstration videos related to educational web tool
 <br><br>
 
 
-#### ✅ WEEK 8 : Sections of an academic report: Introduction and methods
+#### ✅ WEEK 8: Sections of an academic report: Introduction and methods
 
 #### Module Overview
 
@@ -369,7 +369,7 @@ and revisit them and follow demonstration videos related to educational web tool
 
 
 
-#### ✅ WEEK 10 : Sections of an academic report: Conclusion and abstract
+#### ✅ WEEK 10: Sections of an academic report: Conclusion and abstract
 
 #### Module Overview
 
