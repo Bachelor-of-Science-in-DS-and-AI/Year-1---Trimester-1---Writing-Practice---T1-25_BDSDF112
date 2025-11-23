@@ -77,7 +77,7 @@ and revisit them and follow demonstration videos related to educational web tool
     - Compose proper concluding sentences.
     - Use signposts to connect ideas in the paragraph.
 
-
+<br>
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -162,7 +162,7 @@ and revisit them and follow demonstration videos related to educational web tool
     - Please find the student handbook guide in the link for the reference.
     - WP- BITS - Handbook 1.pdf   
 
-
+<br>
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -222,7 +222,7 @@ and revisit them and follow demonstration videos related to educational web tool
 |  W5: Open-ended peer discussion | | | | 
 | **Live Session** | **Oct 17, 2025 06:30 PM India** | |
 
-<br><br>
+<br>
 
 
 
@@ -263,7 +263,7 @@ and revisit them and follow demonstration videos related to educational web tool
 |  W6: Open-ended peer discussion | | | | 
 | **Live Session** | **Oct 24, 2025 06:30 PM India** | |
 
-<br><br>
+<br>
 
 
 #### ✅ WEEK 7: Writing short essays
@@ -330,7 +330,7 @@ and revisit them and follow demonstration videos related to educational web tool
 |  W8: Open-ended peer discussion | | | | 
 | **Live Session** | **Nov 7, 2025 06:30 PM India** | |
 
-<br><br>
+<br>
 
 #### ✅ WEEK 9: Sections of an academic report: Results and discussion
 
@@ -362,7 +362,7 @@ and revisit them and follow demonstration videos related to educational web tool
 |  W9: Open-ended peer discussion | | | | 
 | **Live Session** | **Nov 17, 2025 06:30 PM India** | |
 
-<br><br>
+<br>
 
 
 
