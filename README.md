@@ -1,6 +1,7 @@
 ## <p align="center"><strong> Writing Practice - T1-25_BDSDF112 </strong></p>
 
 
+<br> 
 
 <p align = "justify"> This module introduces students to the course, outlines the target skills, and explains how learners will gain knowledge through 
 the online program and apply it in real-world scenarios. </p>
