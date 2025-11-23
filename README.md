@@ -39,7 +39,7 @@ and revisit them and follow demonstration videos related to educational web tool
     - Recognize the purpose, types, and features of academic writing.
     - Explain how originality, integrity, and plagiarism shape academic writing.
     -  Please find the student handbook guide in the link for the reference.
-    - WP- BITS - Handbook 1.pdf
+    - WP - BITS - Handbook 1.pdf
  
   <br>
 
