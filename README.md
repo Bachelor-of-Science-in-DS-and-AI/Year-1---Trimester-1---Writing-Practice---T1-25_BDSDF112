@@ -35,7 +35,6 @@ and revisit them and follow demonstration videos related to educational web tool
     - Identify the aim, objectives, reading materials, assessment components, and utility of the course.
     - Recognize the purpose, types, and features of academic writing.
     - Explain how originality, integrity, and plagiarism shape academic writing.
-
     -  Please find the student handbook guide in the link for the reference.
     - WP- BITS - Handbook 1.pdf
  
@@ -71,6 +70,7 @@ and revisit them and follow demonstration videos related to educational web tool
 - <b> Module-level Learning Objectives </b>
 
   By the end of this module, you will be able to:
+  
     - Gather ideas for the paragraph.
     - Create a strong topic sentence.
     - Add appropriate supporting details.
@@ -155,12 +155,12 @@ and revisit them and follow demonstration videos related to educational web tool
 - <b> Module-level Learning Objectives </b>
 
   By the end of this module, you will be able to:
-
+  
     - Write well-rounded paragraphs based on problem-solution, process, and visual information.
     - Identify the components of problem-solution, process, and visual information-based paragraphs.
     - Apply the basic principles of paragraph writing when composing problem-solution, process, and visual information-based paragraphs.
-    -  Please find the student handbook guide in the link for the reference.
-    -  WP- BITS - Handbook 1.pdf   
+    - Please find the student handbook guide in the link for the reference.
+    - WP- BITS - Handbook 1.pdf   
 
 
 
