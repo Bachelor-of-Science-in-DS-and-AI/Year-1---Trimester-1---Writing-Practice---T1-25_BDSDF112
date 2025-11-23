@@ -23,7 +23,7 @@ and revisit them and follow demonstration videos related to educational web tool
 ## <p align="center"><strong> Course Curriculum </strong></p>
 
 
-#### ✅ Week 1: Introduction to Academic Writing
+#### ✅ WEEK 1: Introduction to Academic Writing
 
 
 #### Module Overview
