@@ -388,10 +388,10 @@ and revisit them and follow demonstration videos related to educational web tool
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
-| **Lesson 1: Lesson 1: Writing conclusion of an academic report** | **Video 1: Structure of the Conclusion Section** | Week 10.1: Practice Quiz – Structure of the Conclusion Section | 
+| **Lesson 1: Writing conclusion of an academic report** | **Video 1: Structure of the Conclusion Section** | Week 10.1: Practice Quiz – Structure of the Conclusion Section | 
 | | Video 2: Components of the Conclusion Section | Week 10.1: Practice Quiz – Components of the Conclusion Section | 
 | | **Reading:** Module 10: Writing Abstracts, SOP, and Publishing Research |  |  |
-| **Lesson 2: Lesson 2: Writing abstract of an academic report** | **Video 1: Structure of the Abstract Section** | Week 10.2: Practice Quiz – Structure of the Abstract Section | 
+| **Lesson 2: Writing abstract of an academic report** | **Video 1: Structure of the Abstract Section** | Week 10.2: Practice Quiz – Structure of the Abstract Section | 
 | | Video 2: Components of the Abstract Section | Week 10.2: Practice Quiz – Components of the Abstract Section | 
 | **Lesson 3: Leveraging AI and Module Summary** | **Video 1: Leveraging AI and Module Summary** |  |
 |  W10: Open-ended peer discussion | | | | 
